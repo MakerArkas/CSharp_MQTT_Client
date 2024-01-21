@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4GOdSvfPTb8G2ilPpcn3QgSDbOZ9NGGnxyNiyNxX8VeoxtQSA4YdlbUv0Y6HNLf+443Xg4OgSIyWjcvkDQ11Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\GITHUB_PROJELER\\C#_GITHUB\\CSharp_MQTT_Client\\CSharp_MQTT_Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\mqttnet\\3.1.0\\mqttnet.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
