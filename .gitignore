@@ -1,0 +1,6 @@
+# .gitignore
+
+# Visual Studio tarafından oluşturulan geçici dosyalar ve klasörler
+bin/
+obj/
+
